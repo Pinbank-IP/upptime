@@ -1,25 +1,5 @@
 [
   {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-01-01": 0
-    }
-  },
-  {
     "name": "Pinbank.com.br",
     "url": "https://pinbank.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/pinbank.com.br.ico",
@@ -30,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 487,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "time": 499,
+    "timeDay": 499,
+    "timeWeek": 499,
+    "timeMonth": 499,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
+    "time": 340,
+    "timeDay": 340,
+    "timeWeek": 340,
+    "timeMonth": 340,
+    "timeYear": 340,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 224,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   }
 ]
